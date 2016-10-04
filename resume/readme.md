@@ -3,10 +3,10 @@
 ##Jens Huysman
 
 ###Info
-Adress: *Rodekruisstraat 7, 9600 Ronse*
-Phone: *0472346880*
-Email|: *huysman.jens@gmail.com*
-Twitter: *@jenshuysman*
+* Adress: *Rodekruisstraat 7, 9600 Ronse*
+* Phone: *0472346880*
+* Email|: *huysman.jens@gmail.com*
+* Twitter: *@jenshuysman*
 ###Education
 * 2014 - ...
 **Grafische en Digitale Media, Multimediaproductie** (Artevelde Hogeschool Gent)
