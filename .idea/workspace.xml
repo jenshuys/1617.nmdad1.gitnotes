@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d1863f1-136f-4f3b-9c5a-b209bcac5506" name="Default" comment="" />
+    <list default="true" id="0d1863f1-136f-4f3b-9c5a-b209bcac5506" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/03/readme.md" afterPath="$PROJECT_DIR$/lectures/03/readme.md" />
+    </list>
     <ignored path="1617.nmdad1.gitnotes.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -45,8 +47,8 @@
       <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lectures/03/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0877193">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.07017544">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -378,8 +380,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lectures/03/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0877193">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.07017544">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
           <folding />
         </state>
       </provider>
