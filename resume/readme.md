@@ -11,13 +11,13 @@
 * Twitter: *@jenshuysman*
 ###Education
 * 2014 - ...
-..* **Grafische en Digitale Media, Multimediaproductie** (Artevelde Hogeschool Gent)
+    * **Grafische en Digitale Media, Multimediaproductie** (Artevelde Hogeschool Gent)
 
 * 2012 - 2013
-..* **New Media and Communication Technology**  (Howest Kortrijk)
+    * **New Media and Communication Technology**  (Howest Kortrijk)
 
 * 2009 - 2012
-..* **Wetenschappen-Wiskunde** (Bernardus College Oudenaarde)
+    * **Wetenschappen-Wiskunde** (Bernardus College Oudenaarde)
 
 
 ###Skills
@@ -38,4 +38,4 @@
 
 ###Work Experience
 * Grizzly Pro Sound and Light
-..* Light Jockey
+    * Light Jockey
